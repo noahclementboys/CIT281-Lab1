@@ -1,0 +1,15 @@
+1. command c 
+2. command v
+3. command x
+4. command s
+5. shift option a
+6. command /
+7. option right-arrow
+8. option left-arrow
+9. shift option right-arrow
+10. shift option left-arrow
+11. command a
+12. command shift right-arrow
+13. command left-arrow
+14. command right arrow
+15. command up-arrow 
